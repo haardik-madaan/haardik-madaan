@@ -9,13 +9,13 @@
 
 ## 💫 About Me
 
-- 🎓 B.Tech (3rd Year) @ Bennett University
-- 💻 Passionate about **Full Stack Development, AI/ML, and Generative AI**
-- 🌱 Currently learning **Kubernetes, AWS, System Design, and Advanced GenAI**
-- 🚀 Building projects that combine **AI with real-world applications**
-- 🧠 Solving **DSA** daily on LeetCode & Codeforces
-- 💬 Ask me about **React, MERN, Python, C++, DSA, GenAI, Java and Spring Boot**
-- ⚡ Fun Fact: I love breaking complex problems into simple solutions.
+- 🎓 Computer Science undergraduate (Class of 2026) at **Bennett University**
+- 💻 Full-Stack Developer passionate about **Backend Systems, AI/ML, and Distributed Applications**
+- 🧠 Competitive Programmer with a strong foundation in **Data Structures, Algorithms, Graphs, Dynamic Programming, and System Design**
+- ⚡ Regularly solving algorithmic challenges on **LeetCode** and **Codeforces** to strengthen problem-solving skills
+- 🚀 Building scalable web applications with **React, Next.js, Spring Boot, Node.js, Python, and MongoDB**
+- 🤖 Exploring **Generative AI, LLMs, RAG, and AI-powered applications**
+- ☁️ Learning **Docker, Kubernetes, AWS, and Cloud-Native Development**
 
 ---
 
@@ -74,37 +74,6 @@
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm" />
 </p>
 
----
-
-# 🚀 Featured Projects
-
-### 🤖 Crypto Arbitrage Trading Bot
-> Detects arbitrage opportunities across cryptocurrency exchanges using real-time market data.
-
-**Tech:** Python • APIs • Binance • Kraken
-
----
-
-### 🎨 Voice-to-Painting Generator
-> Converts voice emotions and speech into AI-generated abstract artwork.
-
-**Tech:** React • Python • GenAI • Deep Learning
-
----
-
-### 📍 Real-Time Crowd Tracker
-> Predicts crowd density using location data and historical analytics.
-
-**Tech:** React • Firebase • Machine Learning
-
----
-
-### 🚚 Truck Driver Booking Platform
-> MERN stack platform for booking truck drivers for transportation services.
-
-**Tech:** MongoDB • Express • React • Node.js
-
----
 
 ## 📈 Competitive Programming
 
@@ -123,14 +92,6 @@
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=haardik-madaan&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haardik-madaan&theme=tokyo-night"/>
 </p>
 
 
