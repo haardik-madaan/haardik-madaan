@@ -14,7 +14,7 @@
 - 🌱 Currently learning **Kubernetes, AWS, System Design, and Advanced GenAI**
 - 🚀 Building projects that combine **AI with real-world applications**
 - 🧠 Solving **DSA** daily on LeetCode & Codeforces
-- 💬 Ask me about **React, MERN, Python, C++, DSA, GenAI**
+- 💬 Ask me about **React, MERN, Python, C++, DSA, GenAI, Java and Spring Boot**
 - ⚡ Fun Fact: I love breaking complex problems into simple solutions.
 
 ---
@@ -22,10 +22,10 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/haardik-madaan-2040ba25b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:haardikmadaan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/haardikmadaan"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codeforces.com/profile/haardikmadaan"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 </p>
 
 ---
@@ -117,12 +117,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=haardik-madaan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haardik-madaan&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haardik-madaan&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -130,22 +130,15 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haardik-madaan&theme=tokyo-night"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
 
 ---
 
 ## ✨ Quote
 
-> *"Code is not just about making computers work—it's about solving problems that matter."*
+> *"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
 
 ---
 
