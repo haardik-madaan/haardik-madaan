@@ -81,21 +81,6 @@
 - 📚 Strong in Graphs, DP, Trees, Segment Trees & Advanced Data Structures
 - 🏆 Interested in ICPC-style problem solving
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=haardik-madaan&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haardik-madaan&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haardik-madaan&theme=tokyonight&hide_border=true"/>
-</p>
-
-
----
 
 ## ✨ Quote
 
